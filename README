@@ -1,4 +1,8 @@
-This Readme file contains the links to other projects that i have done
+# Projects Showcase
 
-Sophia AI:  local LLM (llama3.2b) based solution that answers medical queries based on papers fetched from the PubMed PMC API.
-https://github.com/cvtsh248/MeSHInformedLLM
+This README file contains links to other projects I have worked on.
+
+## 🔬 Sophia AI
+A local LLM-based medical assistant powered by **LLaMA 3.2b**, capable of answering medical queries using information fetched from **PubMed PMC API**.
+
+GitHub Repo: [MeSHInformedLLM](https://github.com/cvtsh248/MeSHInformedLLM)
