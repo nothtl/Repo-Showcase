@@ -4,6 +4,7 @@ This README file contains links to other projects I have worked on.
 
 ## 🧠 Sophia AI  
 A local LLM-based medical assistant powered by **LLaMA 3.2b**, capable of answering medical queries using information fetched from **PubMed PMC API**.  
+
 GitHub Repo: [MeSHInformedLLM](https://github.com/cvtsh248/MeSHInformedLLM)
 
 ---
@@ -11,4 +12,4 @@ GitHub Repo: [MeSHInformedLLM](https://github.com/cvtsh248/MeSHInformedLLM)
 ## 🚄 High-Speed Train Detector  
 A Fastai + Gradio-powered image classifier that detects which country a high-speed train is from, trained on web-scraped images of real train models.
 
-🔗 [Hugging Face Demo](https://huggingface.co/spaces/nothtl/hst-detector?logs=build)
+GitHub Repo: [MeSHInformedLLM](https://github.com/nothtl/HST-identifyer)
