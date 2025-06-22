@@ -24,7 +24,7 @@ Predicts house prices using machine learning regression models. Includes data cl
 
 ## twitter-sentiment-lstm  
 Twitter sentiment analysis using LSTM networks and GloVe word embeddings. End-to-end pipeline from preprocessing to model evaluation.  
-[GitHub Repo:](github.com/nothtl/twitter-sentiment-lstm)
+[GitHub Repo:](https://github.com/nothtl/twitter-sentiment-lstm)
 ---
 
 ## Interactive-AI-Trainer  
