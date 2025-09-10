@@ -3,11 +3,25 @@
 This README file contains links and brief descriptions of selected AI and machine learning repositories I have worked on.
 
 
-## HST-identifyer  
-Recognizes high-speed trains and classifies their country of origin using a Fastai computer vision model and Gradio web demo.  
-[GitHub Repo:](https://github.com/nothtl/HST-identifyer)
 
----
+## AI Compliance Assistant (TikTok TechJam 2025)
+[GitHub Repo:](https://github.com/agentcluck77/techjam-jamming)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Self Coded LLM 
 Built a language model from scratch, implementing all tokenization and learning algorithms manually for deeper understanding and full control of the model architecture.  
